@@ -1,5 +1,0 @@
-C:\faepa\faepa_17052014\faepa_17052014\bin\faepa_17052014.dll
-C:\faepa\faepa_17052014\faepa_17052014\bin\faepa_17052014.pdb
-C:\faepa\faepa_17052014\faepa_17052014\obj\Debug\faepa_17052014.dll
-C:\faepa\faepa_17052014\faepa_17052014\obj\Debug\faepa_17052014.pdb
-C:\faepa\faepa_17052014\faepa_17052014\obj\Debug\ResolveAssemblyReference.cache
